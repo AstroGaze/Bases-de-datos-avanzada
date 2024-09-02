@@ -1,0 +1,6 @@
+[
+  { "codebar": "453445634", "name": "Coca Cola", "price": 1.5, "stock": 100 },
+  { "codebar": "453445634", "name": "Hamburguesas", "price": 150, "stock": 67 },
+  { "codebar": "453445634", "name": "Pizza", "price": 110, "stock": 0 },
+  { "codebar": "453445634", "name": "Hot Dog", "price": 80, "stock": 20 }
+]
